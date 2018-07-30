@@ -1,5 +1,5 @@
 {
     "require": {
-        "illuminate/database": "4.1.*"
+        "illuminate/database": "5/6.*" // Init cái repo database của illuminate vào là xong, CI max bá trong khoản integration
     }
 }
